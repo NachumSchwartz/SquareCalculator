@@ -1,4 +1,4 @@
-#Square Calculator
+# Square Calculator
 
 This application calculates and prints the square up to the integer inputted in the terminal.
 It also prints the difference in value from the square before it.
